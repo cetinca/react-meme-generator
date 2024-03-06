@@ -44,7 +44,7 @@
   flex-direction: row;
 }
 
-#meme-form--inputs-top {
+.meme-form--inputs-top {
   width: 35%;
   margin-left: 10%;
   padding: 0.5rem;
@@ -53,7 +53,7 @@
   border: 1px solid #D5D4D8;
 }
 
-#meme-form--inputs-bottom {
+.meme-form--inputs-bottom {
   width: 35%;
   margin-left: 10%;
   border-radius: 5px;
@@ -62,7 +62,7 @@
   border: 1px solid #D5D4D8;
 }
 
-#meme-form--submit {
+.meme-form--submit {
   width: 80%;
   background-color: #7c1e9f;
   color: white;
@@ -72,7 +72,7 @@
   border: none;
 }
 
-#meme-form--submit:hover {
+.meme-form--submit:hover {
   opacity: 85%;
   cursor: pointer;
 }
